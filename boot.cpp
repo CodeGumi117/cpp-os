@@ -1,11 +1,14 @@
 // This is not the final version. i am still updating this
+
+
+//v 0.2
 #include <iostream>
 #include <string>
 using namespace std;
 void intro() {
 	cout << "#################\n";
 	cout << "#    \033[31mC++ OS\033[0m     #\n";
-	cout << "#################";
+	cout << "#################"; 
 	cout << "\nCreator: GumiCodz (https://github.com/CodeGumi117)";
 	cout << "\nInspired By: sixpennyfox4 (https://github.com/sixpennyfox4/)\n\n";
 	cout << "Type 'help' to get started!\n\n";
